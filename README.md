@@ -3,6 +3,6 @@
 
 ⚡ I'm an Android developer
 
-|[![Github stats](https://github-readme-stats.vercel.app/api?username=hugecatdev&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
+|[![Github stats](https://github-readme-stats.vercel.app/api?username=hugecatdev&theme=radical&show_icons=true&cache_seconds=1)](https://github.com/anuraghazra/github-readme-stats)|<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width=150 height=150 />|
 |:---:|:---:|
 ||[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugecatdev&theme=radical&layout=compact&cache_seconds=1)](https://wakatime.com/hugecatdev)|
