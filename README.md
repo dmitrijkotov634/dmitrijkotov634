@@ -4,6 +4,8 @@
 
 ⚡ I'm an Android developer
 
-| [![Github stats](https://github-readme-stats.vercel.app/api?username=hugecatdev&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugecatdev&theme=radical&layout=compact)](https://wakatime.com/hugecatdev) |
-|:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width="200" /> | |
+<img src="https://user-images.githubusercontent.com/53375304/165995414-b1d15d50-43cc-428a-8540-bbda07a5c279.png" width="200" />
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=hugecatdev&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugecatdev&theme=radical&layout=compact)](https://wakatime.com/hugecatdev)
