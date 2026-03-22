@@ -22,6 +22,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hugecatdev&theme=radical)](https://git.io/streak-stats)
 
-[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=hugecatdev&theme=radical&row=1&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugecatdev&theme=radical&layout=compact)](https://wakatime.com/hugecatdev)
