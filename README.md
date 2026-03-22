@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/9506e297-1af0-4411-a6c7-9831dccdbc9d.svg)](https://wakatime.com/@9506e297-1af0-4411-a6c7-9831dccdbc9d)
 
 ⚡ I'm an Android developer
 
